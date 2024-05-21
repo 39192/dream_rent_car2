@@ -4,18 +4,14 @@
 
 <template>
     <div class="container">
-
         <div class="row">
-
             <div class="col-lg-3">
-
                 <br>
                 <div class="list-group">
                     <div class="list-group-item">
                         <h6>픽업일자</h6>
                         <div class="input-group date pickup-date">
-                            <input class="form-control input-group-addon" id="pickup-date"
-                                   readonly="">
+                            <input class="form-control input-group-addon" id="pickup-date" readonly="">
                         </div>
                     </div>
                     <div class="list-group-item">
@@ -26,8 +22,7 @@
                     <div class="list-group-item">
                         <h6>반납일자</h6>
                         <div class="input-group date return-date">
-                            <input class="form-control input-group-addon" id="return-date"
-                                   readonly="">
+                            <input class="form-control input-group-addon" id="return-date" readonly="">
                         </div>
                     </div>
                     <div class="list-group-item">
@@ -45,41 +40,30 @@
                 <br>
             </div>
             <!-- /.col-lg-3 -->
-
             <div class="col-lg-9">
                 <br>
-
                 <div class="info-sentence">
-                    * 견적계산기는 렌트 비용 참고용입니다. 자세한 내용은 <b><a
-                    href="https://cafe.naver.com/guamfree/2593378"
-                    style="color: rgb(107, 144, 220)" target="_blank"><u>벨류렌터카
-                    예약안내</u></a></b> 에서 확인해주세요.
+                    * 견적계산기는 렌트 비용 참고용입니다. 자세한 내용은 <b><a href="https://cafe.naver.com/guamfree/2593378"
+                                                         style="color: rgb(107, 144, 220)" target="_blank"><u>벨류렌터카 예약안내</u></a></b> 에서 확인해주세요.
                 </div>
                 <div class="info-sentence">
                     * 장기렌트 할인안내 <b><a href="https://cafe.naver.com/guamfree/2410415"
-                                      style="color: rgb(107, 144, 220)"
-                                      target="_blank"><u>7일,</u></a></b> <b><a
-                    href="https://cafe.naver.com/guamfree/2372137"
-                    style="color: rgb(107, 144, 220)" target="_blank"><u>30일</u></a></b>
+                                      style="color: rgb(107, 144, 220)" target="_blank"><u>7일,</u></a></b> <b><a
+                    href="https://cafe.naver.com/guamfree/2372137" style="color: rgb(107, 144, 220)" target="_blank"><u>30일</u></a></b>
                 </div>
                 <div class="info-sentence">
-                    * 추가 문의는 메일로 송부바랍니다. &lt; <b><a
-                    href="mailto:tillpark3@naver.com" style="color: rgb(107, 144, 220)"
-                    target="_blank"><u>tillpark3@naver.com</u></a></b> &gt;
+                    * 추가 문의는 메일로 송부바랍니다. &lt; <b><a href="mailto:tillpark3@naver.com" style="color: rgb(107, 144, 220)"
+                                                    target="_blank"><u>tillpark3@naver.com</u></a></b> &gt;
                 </div>
-
                 <br>
-
                 <!-- 컴팩트 (5인) -->
                 <hr>
-                <h4 class="title-car">이코노미 (5인)&nbsp</h4>
+                <h4 class="title-car">컴팩트 (5인)&nbsp;&nbsp;<small>리오급</small></h4>
                 <h6 class="title-rate">카페요금</h6>
                 <table class="table table-bordered">
                     <thead>
                     <tr>
-                        <th class="vertical-align-middle" style="width:50%;" colspan="2">
-                            기본요금
-                        </th>
+                        <th class="vertical-align-middle" style="width:50%;" colspan="2">기본요금</th>
                         <th style="width:50%" colspan="2">기본요금 + 추가보험(ZDC)</th>
                     </tr>
                     </thead>
@@ -102,15 +86,14 @@
                         <td id="compact-basic-reservation">$10.0</td>
                         <td id="compact-basic-office">$37.0</td>
                         <td id="compact-zdc-reservation">$10.0</td>
-                        <td id="compact-zdc-office">$35.0</td>
+                        <td id="compact-zdc-office">$44.0</td>
                     </tr>
                     </tbody>
                 </table>
                 <br>
-
                 <!-- 미드사이즈 (5인) -->
                 <hr>
-                <h4 class="title-car">컴팩트 (5인)&nbsp;&nbsp;<small></small></h4>
+                <h4 class="title-car">미드 (5인)&nbsp;&nbsp;<small>마쯔다3급</small></h4>
                 <h6 class="title-rate">카페요금</h6>
                 <table class="table table-bordered">
                     <thead>
@@ -138,15 +121,14 @@
                         <td id="midSize2-basic-reservation">$10.0</td>
                         <td id="midSize2-basic-office">$41.0</td>
                         <td id="midSize2-zdc-reservation">$10.0</td>
-                        <td id="midSize2-zdc-office">$39.0</td>
+                        <td id="midSize2-zdc-office">$53.0</td>
                     </tr>
                     </tbody>
                 </table>
                 <br>
-
                 <!-- SUV (5인) -->
                 <hr>
-                <h4 class="title-car">SUV (5인)&nbsp;&nbsp;</h4>
+                <h4 class="title-car">SUV (5인)&nbsp;&nbsp;<small>셀토스급</small></h4>
                 <h6 class="title-rate">카페요금</h6>
                 <table class="table table-bordered">
                     <thead>
@@ -174,15 +156,14 @@
                         <td id="suv-basic-reservation">$10.0</td>
                         <td id="suv-basic-office">$50.0</td>
                         <td id="suv-zdc-reservation">$10.0</td>
-                        <td id="suv-zdc-office">$50.0</td>
+                        <td id="suv-zdc-office">$62.0</td>
                     </tr>
                     </tbody>
                 </table>
                 <br>
-
                 <!-- 8인승 밴 (5인) -->
                 <hr>
-                <h4 class="title-car">VAN(7/8인)</h4>
+                <h4 class="title-car">VAN(7/8인)&nbsp;&nbsp;<small>카니발급</small></h4>
                 <h6 class="title-rate">카페요금</h6>
                 <table class="table table-bordered">
                     <thead>
@@ -210,22 +191,17 @@
                         <td id="eightVan-basic-reservation">$10.0</td>
                         <td id="eightVan-basic-office">$80.0</td>
                         <td id="eightVan-zdc-reservation">$10.0</td>
-                        <td id="eightVan-zdc-office">$80.0</td>
+                        <td id="eightVan-zdc-office">$97.0</td>
                     </tr>
                     </tbody>
                 </table>
                 <br>
-
                 <br><br><br>
-
                 <!-- /.row -->
-
             </div>
             <!-- /.col-lg-9 -->
-
         </div>
         <!-- /.row -->
-
     </div>
 </template>
 
