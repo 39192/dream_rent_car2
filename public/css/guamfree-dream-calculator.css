@@ -1,0 +1,41 @@
+body {
+    padding-top: 56px;
+}
+small {
+    font-size: 14px;
+    color: #808080;
+    font-weight: normal;
+}
+th {
+    text-align: center;
+    background-color: #F5F5F5;
+}
+thead tr th {
+    text-align: center;
+}
+td {
+    text-align: center;
+    vertical-align: middle;
+}
+table {
+    font-size: 13px;
+}
+.table thead th {
+    vertical-align: middle;
+}
+.table td, .table th {
+    vertical-align: middle;
+}
+.title-car {
+    margin-top: 40px;
+}
+.title-rate {
+    margin-top: 25px;
+}
+#pickup-date, #return-date {
+    background-color: white;
+}
+.info-sentence {
+    color: red;
+    margin-bottom: 5px;
+}

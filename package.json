@@ -1,0 +1,19 @@
+{
+  "name": "dream_rent_car2",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "node_modules/.bin/vite",
+    "build": "node_modules/.bin/vite build",
+    "preview": "node_modules/.bin/vite preview"
+  },
+  "dependencies": {
+    "netlify-cli": "^17.17.1",
+    "vue": "^3.4.19"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.4",
+    "vite": "^5.1.4"
+  }
+}
