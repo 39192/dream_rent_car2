@@ -182,7 +182,7 @@
 
                 <!-- 8인승 밴 (5인) -->
                 <hr>
-                <h4 class="title-car">VAN(7/8인)<small>오딧세이, 시에나</small></h4>
+                <h4 class="title-car">VAN(7/8인)</h4>
                 <h6 class="title-rate">카페요금</h6>
                 <table class="table table-bordered">
                     <thead>
