@@ -162,7 +162,7 @@
                 </table>
                 <br>
                 <!-- 8인승 밴 (5인) -->
-                <hr>
+                <!--<hr>
                 <h4 class="title-car">VAN(7/8인)&nbsp;&nbsp;<small>카니발급</small></h4>
                 <h6 class="title-rate">카페요금</h6>
                 <table class="table table-bordered">
@@ -194,7 +194,7 @@
                         <td id="eightVan-zdc-office">$97.0</td>
                     </tr>
                     </tbody>
-                </table>
+                </table>-->
                 <br>
                 <br><br><br>
                 <!-- /.row -->
