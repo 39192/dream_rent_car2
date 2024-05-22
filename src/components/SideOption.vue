@@ -47,11 +47,6 @@
                                                          style="color: rgb(107, 144, 220)" target="_blank"><u>벨류렌터카 예약안내</u></a></b> 에서 확인해주세요.
                 </div>
                 <div class="info-sentence">
-                    * 장기렌트 할인안내 <b><a href="https://cafe.naver.com/guamfree/2410415"
-                                      style="color: rgb(107, 144, 220)" target="_blank"><u>7일,</u></a></b> <b><a
-                    href="https://cafe.naver.com/guamfree/2372137" style="color: rgb(107, 144, 220)" target="_blank"><u>30일</u></a></b>
-                </div>
-                <div class="info-sentence">
                     * 추가 문의는 메일로 송부바랍니다. &lt; <b><a href="mailto:tillpark3@naver.com" style="color: rgb(107, 144, 220)"
                                                     target="_blank"><u>tillpark3@naver.com</u></a></b> &gt;
                 </div>
