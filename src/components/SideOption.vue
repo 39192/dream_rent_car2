@@ -162,39 +162,39 @@
                 </table>
                 <br>
                 <!-- 8인승 밴 (5인) -->
-                <hr>-->
-                <h4 class="title-car">VAN(7/8인)&nbsp;&nbsp;<small>카니발급</small></h4>-->
-                <h6 class="title-rate">카페요금</h6>-->
-                <table class="table table-bordered">-->
-                    <thead>-->
-                    <tr>-->
-                        <th style="width:50%" colspan="2">기본요금</th>-->
-                        <th style="width:50%" colspan="2">기본요금 + 추가보험(ZDC)</th>-->
-                    </tr>-->
-                    </thead>-->
-                    <tbody>-->
-                    <tr>-->
-                        <td colspan="2">-->
-                            <div id="eightVan-basic-below-three-days">$80.0</div>-->
-                        </td>-->
-                        <td id="eightVan-zdc-td" colspan="2">-->
-                            <div id="eightVan-zdc-below-three-days">$107.0</div>-->
-                        </td>-->
-                    </tr>-->
-                    <tr>-->
-                        <th>예약금액</th>-->
-                        <th>현장지불</th>-->
-                        <th>예약금액</th>-->
-                        <th>현장지불</th>-->
-                    </tr>-->
-                    <tr>-->
-                        <td id="eightVan-basic-reservation">$10.0</td>-->
-                        <td id="eightVan-basic-office">$80.0</td>-->
-                        <td id="eightVan-zdc-reservation">$10.0</td>-->
-                        <td id="eightVan-zdc-office">$97.0</td>-->
-                    </tr>-->
-                    </tbody>-->
-                </table>-->
+                <hr>
+                <h4 class="title-car">VAN(7/8인)&nbsp;&nbsp;<small>카니발급</small></h4>
+                <h6 class="title-rate">카페요금</h6>
+                <table class="table table-bordered">
+                    <thead>
+                    <tr>
+                        <th style="width:50%" colspan="2">기본요금</th>
+                        <th style="width:50%" colspan="2">기본요금 + 추가보험(ZDC)</th>
+                    </tr>
+                    </thead>
+                    <tbody>
+                    <tr>
+                        <td colspan="2">
+                            <div id="eightVan-basic-below-three-days">$80.0</div>
+                        </td>
+                        <td id="eightVan-zdc-td" colspan="2">
+                            <div id="eightVan-zdc-below-three-days">$107.0</div>
+                        </td>
+                    </tr>
+                    <tr>
+                        <th>예약금액</th>
+                        <th>현장지불</th>
+                        <th>예약금액</th>
+                        <th>현장지불</th>
+                    </tr>
+                    <tr>
+                        <td id="eightVan-basic-reservation">$10.0</td>
+                        <td id="eightVan-basic-office">$80.0</td>
+                        <td id="eightVan-zdc-reservation">$10.0</td>
+                        <td id="eightVan-zdc-office">$97.0</td>
+                    </tr>
+                    </tbody>
+                </table>
                 <br>
                 <br><br><br>
                 <!-- /.row -->
