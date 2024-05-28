@@ -43,7 +43,7 @@
             <div class="col-lg-9">
                 <br>
                 <div class="info-sentence">
-                    * 견적계산기는 렌트 비용 참고용입니다. 자세한 내용은 <b><a href="https://cafe.naver.com/guamfree/2593378"
+                    * 견적계산기는 렌트 비용 참고용입니다. 자세한 내용은 <b><a href="https://cafe.naver.com/guamfree/2766949"
                                                          style="color: rgb(107, 144, 220)" target="_blank"><u>벨류렌터카 예약안내</u></a></b> 에서 확인해주세요.
                 </div>
                 <div class="info-sentence">
