@@ -16,7 +16,7 @@
                     </div>
                     <div class="list-group-item">
                         <h6>픽업시간</h6>
-                        <select class="form-control" id="return-time">
+                        <select class="form-control" id="pickup-time">
                         </select>
                     </div>
                     <div class="list-group-item">
